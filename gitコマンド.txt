@@ -1,0 +1,9 @@
+
+
+
+
+
+nakajimat0346
+git config --global user.name "nakajimat0346"
+git config --global user.email "nakajimat0346@gmail.com"
+
